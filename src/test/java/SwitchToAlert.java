@@ -1,0 +1,2 @@
+public class SwitchToAlert {
+}
